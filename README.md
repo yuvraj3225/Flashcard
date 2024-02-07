@@ -82,7 +82,7 @@ Flashcard Generator is build using the following technologies:
 
 
  ## Developer of this Project
- . Yuvraj Lungade <a href='https://github.com/yuvraj3225' target="_blank">Github</a> | <a href='linkedin.com/in/yuvraj-lungade-802151241' target="_blank">Linkedin</a> 
+ . Yuvraj Lungade <a href='https://github.com/yuvraj3225' target="_blank">Github</a> | <a href='www.linkedin.com/in/yuvraj-lungade-802151241' target="_blank">Linkedin</a> 
 
 
 ## Contact
